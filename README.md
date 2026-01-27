@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aung Myint Myat</h1>
 <h3 align="center">Aspiring Cloud Engineer | DigitalOcean • Docker • Kubernetes • MQTT</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Aungmm1298" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="GitHub"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
 
 - 🌱 I’m currently learning **Cloud computing**
