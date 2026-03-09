@@ -14,10 +14,10 @@
 
 ### 💫 About Me
 
-- 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
-- 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**
-- 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure**
-- 🥅 2026 Goals: **Achieve Cloud certifications and develop advanced IoT & AI projects**
+- 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions
+- 🔭 I’m currently working on UX/UI development with React, Next.js and TailwindCSS. 
+- 🌱 I’m currently learning Cloud Engineering and expanding my skills in IT infrastructure. 
+- 🥅 2025 Goals: Achieve certifications in Azure Cloud and advance in DevOps. 
 
 <br>
 
@@ -25,12 +25,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Aungmm1298" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/aung-myint-myat-305316189/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[https://www.linkedin.com/in/aung-myint-myat-305316189/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Aungmm1298" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -42,7 +42,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nextjs,nodejs,tailwind,mongodb,mysql,threejs,cpp,cs,java,aws,figma,git,bash,linux,arduino&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,kotlin,materialui,tailwind,mongodb,mysql,threejs,cs,cpp,dotnet,java,aws,ruby,figma,git,bash,linux&perline=11" />
 </a>
 
 </div>
@@ -60,7 +60,9 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aungmm1298&theme=radical&utcOffset=7">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Aungmm1298&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 
-</div><br>
+</div>
+
+<br>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=red" alt="Total Github views" />
