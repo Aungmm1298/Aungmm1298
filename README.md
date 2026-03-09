@@ -14,9 +14,9 @@
 
 ### 💫 About Me
 
-- 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions
-- 🔭 I’m currently working on UX/UI development with React, Next.js and TailwindCSS. 
-- 🌱 I’m currently learning Cloud Engineering and expanding my skills in IT infrastructure. 
+- 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
+- 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS** 
+- 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure** 
 - 🥅 2025 Goals: Achieve certifications in Azure Cloud and advance in DevOps. 
 
 <br>
