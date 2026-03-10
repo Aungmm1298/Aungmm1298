@@ -17,10 +17,10 @@ Hi there, I'm Aung Myint Myat
 
 ### 💫 About Me
 
-- 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
-- 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**
-- 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure**
-- 🥅 2026 Goals: Achieve certifications in Azure Cloud and advance in DevOps.
+* 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
+* 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**
+* 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure**
+* 🥅 2026 Goals: Achieve certifications in Azure Cloud and advance in DevOps
 
 <br>
 
@@ -44,9 +44,7 @@ Hi there, I'm Aung Myint Myat
 
 <div align="center">
 
-<a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,kotlin,materialui,tailwind,mongodb,mysql,threejs,cs,cpp,dotnet,java,aws,ruby,figma,git,bash,linux&perline=11" />
-</a>
 
 </div>
 
