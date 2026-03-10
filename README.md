@@ -1,20 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=100&section=header"/>
+<!-- Header -->
 
-<h1 align="center">Hi there, I'm Aung Myint Myat 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
+
+<h1 align="center">Hi 👋 I'm Aung Myint Myat</h1>
+
+<h3 align="center">Digital & Communication Engineering Student | Web Developer | Cloud & IoT Enthusiast</h3>
 
 <p align="center">
-Digital & Communication Engineering Student <br>
-Mae Fah Luang University, Thailand
+Mae Fah Luang University • Thailand
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+---
 
 ## 💫 About Me
 
 * 🎓 Digital & Communication Engineering student at **Mae Fah Luang University**
-* 🔭 Currently working on **Web Development (React, Next.js, TailwindCSS)**
-* 🌱 Learning **Cloud Computing, IoT Systems, and IT Infrastructure**
-* 🎯 Goal: Become a **Cloud & DevOps Engineer**
+* 💻 Interested in **Web Development, Cloud Computing, and IoT Systems**
+* 🔭 Currently working with **React, Next.js, and TailwindCSS**
+* 🌱 Learning **Cloud Infrastructure and DevOps**
+* 🎯 Goal: Become a **Cloud / DevOps Engineer**
 
 ---
 
@@ -38,7 +42,7 @@ Mae Fah Luang University, Thailand
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,nodejs,tailwind,mongodb,mysql,threejs,cpp,cs,java,aws,figma,git,bash,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,mongodb,mysql,cpp,java,aws,git,linux,figma&perline=8"/>
 
 </p>
 
@@ -48,9 +52,9 @@ Mae Fah Luang University, Thailand
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aungmm1298&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aungmm1298&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aungmm1298&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aungmm1298&layout=compact&theme=radical"/>
 
 </p>
 
@@ -67,7 +71,9 @@ Mae Fah Luang University, Thailand
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=blue"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=100&section=footer"/>
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=footer"/>
