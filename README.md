@@ -26,11 +26,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aung-myint-myat-305316189/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Aung%20Myint%20Myat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aungmm1298" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Aungmm1298-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
