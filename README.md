@@ -2,10 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>
-Hi there, I'm Aung Myint Myat 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
+<h1>Hi there, I'm Aung Myint Myat</h1>
 
 </div>
 
@@ -17,10 +14,10 @@ Hi there, I'm Aung Myint Myat
 
 ### 💫 About Me
 
-* 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
-* 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**
-* 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure**
-* 🥅 2026 Goals: Achieve certifications in Azure Cloud and advance in DevOps
+- 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University
+- 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**
+- 🌱 I’m currently learning **Cloud Computing, IoT Systems, and IT Infrastructure**
+- 🥅 2026 Goals: Achieve certifications in Azure Cloud and advance in DevOps
 
 <br>
 
