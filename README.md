@@ -55,8 +55,13 @@
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aungmm1298&theme=radical&utcOffset=7"/>
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Aungmm1298&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>
 
 ---
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=red"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
