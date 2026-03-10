@@ -60,8 +60,3 @@
 </div>
 
 ---
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=red"/>
-</p>
-
