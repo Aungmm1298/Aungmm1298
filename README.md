@@ -41,22 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aungmm1298&theme=radical"/>
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aungmm1298&theme=radical"/>
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aungmm1298&theme=radical"/>
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aungmm1298&theme=radical"/>
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aungmm1298&theme=radical&utcOffset=7"/>
-
-
-</div>
 
 ---
 
