@@ -1,53 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<h1 align="center">Hi 👋, I'm Aung Myint Myat</h1>
+<h3 align="center">A passionate cloud engineer in Thailand</h3>
 
-<div align="center">
-<h1>Hi there, I'm Aung Myint Myat 👋</h1>
-</div>
+- 🌱 I’m currently learning **Cloud computing**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340"/>
+- 👨‍💻 All of my projects are available at [https://aungmyintmyat.com/](https://aungmyintmyat.com/)
 
-### 💫 About Me
+- 📫 How to reach me **aungmyintmyatchauk@gmail.com**
 
-- 🎓 I’m a **Digital & Communication Engineering student** at Mae Fah Luang University  
-- 🔭 I’m currently working on **Web Development using React, Next.js and TailwindCSS**  
-- 🌱 I’m currently learning **Cloud Computing, IoT Systems and IT Infrastructure**  
-- 🥅 2026 Goals: Achieve certifications in **Cloud Engineering and DevOps**
-
----
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aung-myint-myat-305316189/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aungmm1298" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,kotlin,materialui,tailwind,mongodb,mysql,threejs,cpp,java,aws,figma,git,bash,linux&perline=11"/>
-
-</div>
-
----
-
-
-
----
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Aungmm1298&color=red"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aung-myint-myat-305316189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aung-myint-myat-305316189/" height="30" width="40" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
