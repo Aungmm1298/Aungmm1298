@@ -13,7 +13,7 @@
 - Role: Cloud Engineer
 - Location: Thailand
 - Stack: AWS • Docker • Kubernetes • Linux • C# • MySQL • Next.js
-- Focus: Cloud Infrastructure, Automation & Minimalist UI Design
+- Focus: Cloud Infrastructure
 
 
 ## 🧠 My Focus Areas
