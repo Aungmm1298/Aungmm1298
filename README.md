@@ -88,8 +88,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Aungmm1298)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
